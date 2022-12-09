@@ -9,5 +9,6 @@
 * https://pandas.pydata.org/pandas-docs/version/0.23/generated/pandas.Categorical.html
 * https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_xticklabels.html
 * https://www.geeksforgeeks.org/change-axis-labels-set-title-and-figure-size-to-plots-with-seaborn/
+* https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.explode.html
 * Lecture Notes & Homeworks
 * Pandas, Seaborn Documentation
